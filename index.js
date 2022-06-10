@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		type: 0
 	}, {
 		user_id: 4,  //147
-		content: "<a>@Romeo</a> & <a>@TybaltC</a> A plague to both of your houses! To both of your families! I'm done for, and for that, curse both of your families! <a>#aCUT</a> <a>#plague</a> <a>#curse</a> <a>#dead</a>",
+		content: "<a>@Romeo</a> & <a>@TybaltC</a> A plague to both of your houses! To both of your families! I'm done for, and for that, curse both of your families! <a>#aSCRATCH</a> <a>#plague</a> <a>#curse</a> <a>#dead</a>",
 		date: "Monday",
 		type: 0
 	}, {
