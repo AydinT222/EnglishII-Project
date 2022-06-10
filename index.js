@@ -228,12 +228,12 @@ document.addEventListener('DOMContentLoaded', () => {
 		type: 1
 	}, {
 		user_id: 1,
-		content: "This is outragous! Everything was going perfectly well at setting up the wedding for my daugter, now death has taken her. The wedding will be turned into a funeral. <a>#grief</a> <a>#death</a> <a>#funeral</a>",
+		content: "This is outrageous! Everything was going perfectly well at setting up the wedding for my daughter, now death has taken her. The wedding will be turned into a funeral. <a>#grief</a> <a>#death</a> <a>#funeral</a>",
 		date: "Wednesday",
 		type: 0
 	}, {
 		user_id: 7,
-		content: "I am currently in quaruntine trying to deliver a letter, I'm unsure if I will be able to deliver it on time. <a>#quaruntine</a> <a>#mantua</a>",
+		content: "I am currently in quarantine trying to deliver a letter, I'm unsure if I will be able to deliver it on time. <a>#quarantine</a> <a>#mantua</a>",
 		date: "Wednesday",
 		type: 0
 	}, {
