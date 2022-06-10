@@ -188,7 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		type: 0
 	}, {
 		user_id: 8,  //147
-		content: "I've done something terrible, I'm fortune's fool <a>#unlucky</a> <a>#revene</a>",
+		content: "I've done something terrible, I'm fortune's fool <a>#unlucky</a> <a>#fate</a>",
 		date: "Monday",
 		type: 0
 	}, {
